@@ -1,2 +1,6 @@
 # Odin_recipes
-Best Recipes
+This is my beginner project
+
+## Project Description
+This is project is know about recipes.This my beginner project 
+
